@@ -1,0 +1,30 @@
+Script started on 2022-03-29 21:04:46-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="159" LINES="25"]
+]0;hunter@DESKTOP-GT8U24P: /mnt/c/Users/hunte/Desktop/css2/lab9[01;32mhunter@DESKTOP-GT8U24P[00m:[01;34m/mnt/c/Users/hunte/Desktop/css2/lab9[00m$ a[K./a.out
+Please enter your expression:
+12 679 5 + 4 * 8 / +
+Answer = 354
+Enter another equation?(y or n)y
+Please enter your expression:
+34 6 + 16 * 18 -
+Answer = 622
+Enter another equation?(y or n)y
+Please enter your expression:
+12 6 - 8 + 7 * +
+Error: You need at least two numbers to preform this operation.
+]0;hunter@DESKTOP-GT8U24P: /mnt/c/Users/hunte/Desktop/css2/lab9[01;32mhunter@DESKTOP-GT8U24P[00m:[01;34m/mnt/c/Users/hunte/Desktop/css2/lab9[00m$ ./a.out
+Please enter your expression:
+56 78 84 + 33 *
+Error: Too many numbers, need more operations for a final answer.
+]0;hunter@DESKTOP-GT8U24P: /mnt/c/Users/hunte/Desktop/css2/lab9[01;32mhunter@DESKTOP-GT8U24P[00m:[01;34m/mnt/c/Users/hunte/Desktop/css2/lab9[00m$ ./a.out
+Please enter your expression:
+57 42 * 2 - 5 +
+Answer = 2397
+Enter another equation?(y or n)y
+Please enter your expression:
+12 5 * 72 - 0 + - 22      22 - 5 + 1 /
+Answer = -29
+Enter another equation?(y or n)n
+]0;hunter@DESKTOP-GT8U24P: /mnt/c/Users/hunte/Desktop/css2/lab9[01;32mhunter@DESKTOP-GT8U24P[00m:[01;34m/mnt/c/Users/hunte/Desktop/css2/lab9[00m$ exit
+exit
+
+Script done on 2022-03-29 21:08:47-04:00 [COMMAND_EXIT_CODE="0"]
